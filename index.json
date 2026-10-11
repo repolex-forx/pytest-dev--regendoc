@@ -1,0 +1,11 @@
+{
+  "org": "pytest-dev",
+  "repo": "regendoc",
+  "versions": [
+    {
+      "commit": "e6013a994fb1577c557591b5ae1cee56a0c88380",
+      "tag": "v0.9.0",
+      "parsed_at": "2026-10-11T09:04:01.909105+00:00"
+    }
+  ]
+}
