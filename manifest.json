@@ -1,0 +1,37 @@
+{
+  "manifest_version": "1.0",
+  "org": "pytest-dev",
+  "repo": "regendoc",
+  "versions": [
+    {
+      "commit": "e6013a994fb1577c557591b5ae1cee56a0c88380",
+      "parsed_at": "2026-10-11T09:01:42.763543+00:00",
+      "tag": "v0.9.0",
+      "filetree": "filetree/e6013a994fb1577c557591b5ae1cee56a0c88380.nq.gz",
+      "blobs": [
+        "blob/315d1ea0601479748aea12e3e5a774b85e6b21ef.nq.gz",
+        "blob/8d962c243abf6aaec75970db419c1770b3fb08e5.nq.gz",
+        "blob/325f2ec84003a0f4a4eb7329a99643d7a3426ee7.nq.gz",
+        "blob/429b4fcf1ee8db5af64705220afe8c67e28aea7d.nq.gz",
+        "blob/44a13fee6bc9332481673008c36176e72d2e5198.nq.gz",
+        "blob/a612ad9813b006ce81d1ee438dd784da99a54007.nq.gz",
+        "blob/96389cbf93e46a18f8c0b1cf7f1a306c2523bdc5.nq.gz",
+        "blob/84d48817e299bcbdb67a6137287b216fc6b34ee4.nq.gz",
+        "blob/b7d83e19a2335a7586212a06eb298ea4b3cb8b5c.nq.gz",
+        "blob/ee3001df02566b73e6f5cfe9a0ebab2bc9d6baf8.nq.gz",
+        "blob/faaef8f073279e7f7949b20a5767954ad16ebb8e.nq.gz",
+        "blob/0b5eaf76f18d1a0e43be2fc23961678617f1b536.nq.gz",
+        "blob/8c32274d0fb7099170621ba143dba655dd489f61.nq.gz",
+        "blob/16a31fa9f0f4e6c16624fe6a6ddecc54f5d2339f.nq.gz",
+        "blob/d42d6e8a9069b53320a7279dba033738528053ec.nq.gz",
+        "blob/e69de29bb2d1d6434b8b29ae775ad8c2e48c5391.nq.gz",
+        "blob/438ec35314103e1e5a5964677c69bb6e5a4baa7d.nq.gz"
+      ]
+    }
+  ],
+  "commit": "commit/commit.nq.gz",
+  "branch": "branch/branch.nq.gz",
+  "tag": "tag/tag.nq.gz",
+  "issue": "issue/issue.nq.gz",
+  "pr": "pr/pr.nq.gz"
+}
