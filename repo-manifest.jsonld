@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/pytest-dev/regendoc/commit/e6013a994fb1577c557591b5ae1cee56a0c88380",
       "git:hexsha": "e6013a994fb1577c557591b5ae1cee56a0c88380",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "v0.9.0"
     },
     {
